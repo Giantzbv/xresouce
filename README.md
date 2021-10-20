@@ -1,0 +1,2 @@
+# xresouce
+xresource color palattes
